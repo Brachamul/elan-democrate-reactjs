@@ -1,0 +1,49 @@
+{
+	"results": [
+		{
+			"title": "Contre le plafonnement des indemnités prud'hommales",
+			"tags": [
+				{"text": "Loi El-Khomri", "slug": "loi-el-khomri"},
+				{"text": "Économie", "slug": "economie"}
+				],
+			"slug": "1388534400000",
+			"author": "Pete Hunt"
+		},
+		{
+			"title": "React is *great*!",
+			"tags": [
+				{"text": "Loi El-Khomri", "slug": "loi-el-khomri"},
+				{"text": "Économie", "slug": "economie"}
+				],
+			"slug": "1420070400000",
+			"author": "Paul O'Shannessy"
+		},
+		{
+			"title": "yar potato",
+			"tags": [
+				{"text": "Loi El-Khomri", "slug": "loi-el-khomri"},
+				{"text": "Économie", "slug": "economie"}
+				],
+			"slug": "1449971729709",
+			"author": "potato"
+		},
+		{
+			"title": "new potato",
+			"tags": [
+				{"text": "Loi El-Khomri", "slug": "loi-el-khomri"},
+				{"text": "Économie", "slug": "economie"}
+				],
+			"slug": "1449971729710",
+			"author": "Le Potato"
+		},
+		{
+			"title": "This is meaty stuff",
+			"tags": [
+				{"text": "Loi El-Khomri", "slug": "loi-el-khomri"},
+				{"text": "Économie", "slug": "economie"}
+				],
+			"slug": "1450135504494",
+			"author": "Lard"
+		}
+	]
+}
