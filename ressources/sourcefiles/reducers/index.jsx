@@ -7,6 +7,7 @@ const rootAppReducers = combineReducers({
 	alertsState: alerts,
 	formsState: forms,
 	authState: auth,
+	propositionsState: propositions,
 })
 
 export default rootAppReducers

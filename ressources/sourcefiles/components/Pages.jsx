@@ -18,7 +18,7 @@ const LoginPage = () => (
 				<AlertsContainer />
 			</div>
 			<div className="row-fluid well">
-				<LoginFormContainer title="Connexion" titleLevel={1} authURL="/obtain-auth-token/" />
+				<LoginFormContainer title="Connexion" titleLevel={1} />
 			</div>
 		</Grid>
 	</div>

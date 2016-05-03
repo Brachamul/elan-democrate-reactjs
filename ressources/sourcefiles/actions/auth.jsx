@@ -24,14 +24,13 @@ export const loginUserSuccess = (authToken) => {
 	}
 }
 
-
 export const logIn = (fields) => {
-	console.log(fields)
+	let endpoint = "obtain-auth-token/"
 	console.log(`logging in with username ${fields.username} and password ${fields.password}`)
 	return dispatch => {
 		dispatch(loginUserRequest())
 		dispatch(clearAllAlerts())
-		return axios.post('http://localhost:8000/obtain-auth-token/', fields
+		return axios.post(apiRoot + endpoint, fields
 		).then(response => {
 			console.log(response)
 			dispatch(loginUserSuccess("Token " + response.data.token))
